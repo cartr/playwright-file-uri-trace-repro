@@ -1,0 +1,8 @@
+div {
+    font-family: Comic Sans MS, Comic Sans, fantasy;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 500px;
+    color: purple;
+    text-shadow: 20px 20px pink;
+}

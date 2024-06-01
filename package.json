@@ -1,0 +1,16 @@
+{
+  "name": "playwright-file-uri",
+  "version": "1.0.0",
+  "description": "Repro for Playwright handling file URIs in traces poorly",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "author": "Carter Sande <carter.sande@duodecima.technology> (https://carter.sande.duodecima.technology/)",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.12.13",
+    "envinfo": "^7.13.0"
+  }
+}
